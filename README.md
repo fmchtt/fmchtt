@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NestJs, Clean Architecture**
 
-- 👨‍💻 All of my projects are available at [fmchtt.dev.br](fmchtt.dev.br)
+- 👨‍💻 My portfolio and demonstrations are available at [fmchtt.dev.br](https://fmchtt.dev.br)
 
 - 💬 Ask me about **React**
 
