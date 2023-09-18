@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fmchtt&label=Profile%20views&color=0e75b6&style=flat" alt="fmchtt" /> </p>
 
-- 🌱 I’m currently learning **NestJs, Clean Architecture**
+- 🌱 I’m currently learning **Event Sourcing and other patterns**
 
 - 👨‍💻 My portfolio and demonstrations are available at [fmchtt.dev.br](https://fmchtt.dev.br)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React and .NET**
 
 - 📫 How to reach me **felipe@fmchtt.dev.br**
 
